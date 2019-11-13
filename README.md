@@ -1,2 +1,2 @@
 # Bjornpvb
-Björn
+RapidTrash is de naam van ons bedrijf.
