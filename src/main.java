@@ -1,4 +1,4 @@
 public static void main {
-System.out.print();
+System.out.print("dit is een test bericht");
         }
 
